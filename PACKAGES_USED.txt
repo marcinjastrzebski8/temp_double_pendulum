@@ -1,0 +1,22 @@
+packages used:
+collections
+matplotlib
+matplotlib.pyplot
+matplotlib.animation
+numpy
+pandas
+ABC
+abstractmethod
+math
+pytest
+pathlib
+os
+
+advanced techniques:
+Inheritance
+Abstract classes
+pytest testing
+pandas - DataFrames
+plotting:
+	animation
+	colormap
